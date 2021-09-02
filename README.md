@@ -7,5 +7,5 @@ Most of them are implemented by using Object-Oriented Programming(OOP) way. That
 PS. Some of them still have bugs or better way to implement it.  
 
 Link to other repositories<br />
-- https://github.com/vikimark/AStarPathFinding<br />
 - https://github.com/vikimark/MazeGenAndSolve<br />
+- https://github.com/vikimark/AStarPathFinding<br />
